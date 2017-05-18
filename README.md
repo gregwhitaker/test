@@ -1,4 +1,4 @@
 # test
 
-A simple Erlang example.
+A simple Hello World in Erlang.
 
