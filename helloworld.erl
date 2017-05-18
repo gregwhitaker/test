@@ -4,4 +4,3 @@
 
 hello() ->
     io:format("hello world~n").
-
