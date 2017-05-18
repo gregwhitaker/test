@@ -1,4 +1,4 @@
--module(hello_world).
+-module(helloworld).
 -compile(export_all).
 
 
